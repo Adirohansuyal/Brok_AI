@@ -1,0 +1,8 @@
+streamlit
+numpy
+scikit-learn
+sentence-transformers
+fuzzywuzzy
+  # Replaces fuzzywuzzy
+nltk
+torch  # Required for sentence-transformers
