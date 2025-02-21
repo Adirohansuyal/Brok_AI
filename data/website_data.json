@@ -124,6 +124,11 @@
         "question": "What are the eligibility criteria for the MCA program at BIAS?",
         "context": "The MCA program requires candidates to have a Bachelor's degree in Computer Science or a related field with Mathematics as a subject.",
         "answer": "Bachelor's degree in Computer Science or related field with Mathematics."
+      },
+      {
+        "question": "Faculties at BIAS",
+        "context": "The faculties at BIAS: Dr. Sandesh Tripathi, Mr. Nitin Chhimwal, Mr. Hem Chandra Pandey",
+        "answer": "Dr. Sandesh Tripathi, Mr. Nitin Chhimwal, Mr. Hem Chandra Pandey"
       }
     ]
   }
