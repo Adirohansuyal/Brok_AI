@@ -16,7 +16,7 @@ def get_answer(question, qa_data):
 
 # Streamlit UI
 def main():
-    st.title("BIAS Q&A Bot 🤖")
+    st.title("BIAS Q&A Bot by Adi🤖")
     
     st.write("Ask me anything about BIAS!")
 
