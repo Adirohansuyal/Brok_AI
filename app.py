@@ -44,7 +44,7 @@ def find_best_match(user_input):
         return "I'm sorry, I couldn't find a relevant answer. Could you rephrase your question?"
 
 # Streamlit UI
-st.title("AI-Powered Q&A Chatbot 🤖")
+st.title("AI-Powered Q&A Chatbot for BIAS🤖")
 st.write("Enter a question below, and I'll try to find the best answer!")
 
 user_question = st.text_input("Ask a question:")
