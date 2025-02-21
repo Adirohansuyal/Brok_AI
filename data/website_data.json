@@ -1,0 +1,130 @@
+{
+    "data": [
+      {
+        "question": "What undergraduate programs are offered at BIAS?",
+        "context": "The institute offers Bachelor of Technology (B.Tech.) programs in Computer Science & Engineering (CSE) and Electronics & Communication Engineering (ECE).",
+        "answer": "B.Tech. in Computer Science & Engineering and B.Tech. in Electronics & Communication Engineering"
+      },
+      {
+        "question": "What is the annual intake for the MCA program at BIAS?",
+        "context": "The Master of Computer Applications (MCA) program has an intake of 18 students annually.",
+        "answer": "18 students"
+      },
+      {
+        "question": "How far is BIAS from the nearest railway station?",
+        "context": "The institute is located 19 km from Kathgodam railway station on Haldwani-Almora road.",
+        "answer": "19 km"
+      },
+      {
+        "question": "What are the hostel facilities available at BIAS?",
+        "context": "BIAS has five boys' hostels with a total capacity of around 300 students and one girls' hostel with a capacity of 200 students.",
+        "answer": "Five boys' hostels (300 students) and one girls' hostel (200 students)"
+      },
+      {
+        "question": "How is the placement record for B.Tech. and MCA students at BIAS?",
+        "context": "The placement record for 2021-22 was 85% for MCA students and 90% for B.Tech. students.",
+        "answer": "85% for MCA, 90% for B.Tech."
+      },
+      {
+        "question": "What is the highest salary package offered at BIAS?",
+        "context": "The maximum salary package offered to students in the 2021-22 placement session was ₹11,00,000 per annum.",
+        "answer": "₹11,00,000 per annum"
+      },
+      {
+        "question": "What are the nearby attractions around BIAS?",
+        "context": "Nearby attractions include Nainital, Sattal, Naukuchiatal, and Bhimtal.",
+        "answer": "Nainital, Sattal, Naukuchiatal, Bhimtal"
+      },
+      {
+        "question": "How can students get admission to B.Tech. at BIAS?",
+        "context": "Admissions to B.Tech. programs are based on JEE Main ranks through Uttarakhand Technical University counseling or through direct admission based on merit.",
+        "answer": "JEE Main ranks or direct admission based on merit"
+      },
+      {
+        "question": "What are the different student societies and clubs at BIAS?",
+        "context": "BIAS has various student societies and clubs such as Cultural Society, Literary Society, Sports Society, Google Developers Club, and Technoforum Club.",
+        "answer": "Cultural Society, Literary Society, Sports Society, Google Developers Club, Technoforum Club"
+      },
+      {
+        "question": "What are the eligibility criteria for the BCA program at BIAS?",
+        "context": "The Bachelor of Computer Applications (BCA) program at BIAS requires students to have completed 10+2 education with Mathematics as a subject.",
+        "answer": "10+2 with Mathematics"
+      },
+      {
+        "question": "What is the faculty-to-student ratio at BIAS?",
+        "context": "BIAS maintains a faculty-to-student ratio of 1:15 to ensure quality education.",
+        "answer": "1:15"
+      },
+      {
+        "question": "What are the research areas at BIAS?",
+        "context": "The research areas at BIAS include Artificial Intelligence, Data Science, Embedded Systems, and Wireless Communication.",
+        "answer": "Artificial Intelligence, Data Science, Embedded Systems, Wireless Communication"
+      },
+      {
+        "question": "Does BIAS provide scholarships to students?",
+        "context": "BIAS offers merit-based and need-based scholarships to eligible students.",
+        "answer": "Yes, merit-based and need-based scholarships are available."
+      },
+      {
+        "question": "What are the sports facilities available at BIAS?",
+        "context": "The institute has facilities for cricket, football, badminton, volleyball, and a well-equipped gymnasium.",
+        "answer": "Cricket, football, badminton, volleyball, gymnasium"
+      },
+      {
+        "question": "Does BIAS offer internship opportunities to students?",
+        "context": "BIAS has collaborations with several industries and provides internship opportunities to students in leading tech firms.",
+        "answer": "Yes, BIAS offers internship opportunities with industry collaborations."
+      },
+      {
+        "question": "What postgraduate programs are offered at BIAS?",
+        "context": "BIAS offers a Master of Computer Applications (MCA) program.",
+        "answer": "Master of Computer Applications (MCA)"
+      },
+      {
+        "question": "How can students apply for scholarships at BIAS?",
+        "context": "Students can apply for scholarships based on merit or financial need through the official institute portal.",
+        "answer": "Through the official institute portal, based on merit or need."
+      },
+      {
+        "question": "Are there research opportunities at BIAS?",
+        "context": "Yes, students can participate in research projects in collaboration with faculty members.",
+        "answer": "Yes, research projects are available."
+      },
+      {
+        "question": "What extracurricular activities are available at BIAS?",
+        "context": "Students can participate in technical fests, cultural events, hackathons, and sports tournaments.",
+        "answer": "Technical fests, cultural events, hackathons, sports tournaments."
+      },
+      {
+        "question": "What is the accreditation status of BIAS?",
+        "context": "BIAS is affiliated with Uttarakhand Technical University and approved by AICTE.",
+        "answer": "Affiliated with Uttarakhand Technical University, AICTE approved."
+      },
+      {
+        "question": "Does BIAS have a placement cell?",
+        "context": "Yes, BIAS has a dedicated placement cell that conducts training, workshops, and placement drives.",
+        "answer": "Yes, BIAS has a dedicated placement cell."
+      },
+      {
+        "question": "What are the library facilities at BIAS?",
+        "context": "The library at BIAS has over 10,000 books, e-resources, research papers, and access to digital libraries.",
+        "answer": "10,000+ books, e-resources, research papers, digital libraries."
+      },
+      {
+        "question": "Does BIAS offer transport facilities for students?",
+        "context": "Yes, the institute provides transport facilities for students and faculty members.",
+        "answer": "Yes, transport facilities are available."
+      },
+      {
+        "question": "What are the key recruiters at BIAS?",
+        "context": "Top recruiters include TCS, Infosys, Wipro, HCL, Cognizant, and Accenture.",
+        "answer": "TCS, Infosys, Wipro, HCL, Cognizant, Accenture"
+      },
+      {
+        "question": "What are the eligibility criteria for the MCA program at BIAS?",
+        "context": "The MCA program requires candidates to have a Bachelor's degree in Computer Science or a related field with Mathematics as a subject.",
+        "answer": "Bachelor's degree in Computer Science or related field with Mathematics."
+      }
+    ]
+  }
+  
