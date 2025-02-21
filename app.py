@@ -1,37 +1,57 @@
-import json
 import streamlit as st
+import numpy as np
+import pickle
+from sentence_transformers import SentenceTransformer
+from fuzzywuzzy import process
+import nltk
+import string
 
-# Load the JSON data
-def load_data(json_path="data/website_data.json"):
-    with open(json_path, "r", encoding="utf-8") as file:
-        data = json.load(file)
-    return data["data"]
+# Download stopwords and lemmatizer
+nltk.download("stopwords")
+nltk.download("wordnet")
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
-# Find answer from JSON
-def get_answer(question, qa_data):
-    for item in qa_data:
-        if question.lower() in item["question"].lower():
-            return item["answer"]
-    return "Sorry, I couldn't find an answer to your question."
+STOPWORDS = set(stopwords.words("english"))
+lemmatizer = WordNetLemmatizer()
+sbert_model = SentenceTransformer("paraphrase-MiniLM-L6-v2")
+
+def preprocess_text(text):
+    """Preprocess input text: lowercase, remove punctuation & stopwords, apply lemmatization."""
+    text = text.lower().translate(str.maketrans("", "", string.punctuation))
+    words = text.split()
+    words = [lemmatizer.lemmatize(word) for word in words if word not in STOPWORDS]
+    return " ".join(words)
+
+def load_model():
+    """Load trained embeddings and answers."""
+    question_embeddings = np.load("model/question_embeddings.npy")
+    with open("model/answers.pkl", "rb") as f:
+        answers = pickle.load(f)
+    return question_embeddings, answers
+
+def find_best_match(user_input):
+    """Find the best matching question for the user's input using semantic search & fuzzy matching."""
+    user_input = preprocess_text(user_input)
+    question_embeddings, answers = load_model()
+    user_embedding = sbert_model.encode([user_input])[0]
+    similarities = np.dot(question_embeddings, user_embedding)  # Cosine similarity
+    best_match_index = np.argmax(similarities)
+
+    if similarities[best_match_index] > 0.7:  # SBERT Confidence Threshold
+        return answers[best_match_index]
+    else:
+        return "I'm sorry, I couldn't find a relevant answer. Could you rephrase your question?"
 
 # Streamlit UI
-def main():
-    st.title("BIAS Q&A Bot by Adi🤖")
-    
-    st.write("Ask me anything about BIAS!")
+st.title("AI-Powered Q&A Chatbot 🤖")
+st.write("Enter a question below, and I'll try to find the best answer!")
 
-    # Load data
-    qa_data = load_data()
+user_question = st.text_input("Ask a question:")
 
-    # User Input
-    user_question = st.text_input("Enter your question:")
-
-    if st.button("Get Answer"):
-        if user_question.strip():
-            answer = get_answer(user_question, qa_data)
-            st.write(f"**Answer:** {answer}")
-        else:
-            st.write("Please enter a question.")
-
-if __name__ == "__main__":
-    main()
+if st.button("Get Answer"):
+    if user_question.strip():
+        answer = find_best_match(user_question)
+        st.success(answer)
+    else:
+        st.warning("Please enter a valid question.")
