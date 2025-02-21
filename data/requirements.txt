@@ -1,2 +1,7 @@
 streamlit
-json
+numpy
+scikit-learn
+sentence-transformers
+fuzzywuzzy
+nltk
+python-Levenshtein
