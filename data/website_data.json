@@ -76,9 +76,81 @@
         "answer": "Yes, BIAS offers internship opportunities with industry collaborations."
       },
       {
+        "question": "What is the full name of BIAS?",
+        "answer": "Birla Institute of Applied Sciences."
+      },
+      {
         "question": "What postgraduate programs are offered at BIAS?",
         "context": "BIAS offers a Master of Computer Applications (MCA) program.",
-        "answer": "Master of Computer Applications (MCA)"
+        "answer": "BIAS offers a Master of Computer Applications (MCA) program.)"
+      },
+      {
+        "question": "What is the altitude of BIAS above sea level?",
+        "answer": "The altitude of BIAS is 1319 meters above sea level."
+      },
+      {
+        "question": "What is the climate like in Bhimtal?",
+        "answer": "The climate is pleasant both in summer and winter. The temperature ranges from 15°C-29°C in summer and 3°C-18°C in winter."
+      },
+      {
+        "question": "How far is BIAS from Kathgodam railway station?",
+        "answer": "BIAS is 20 km away from the nearest Kathgodam railway station."
+      },
+      {
+        "question": "What are some tourist attractions near BIAS?",
+        "answer": "Nearby attractions include Nainital, Sattal, Naukuchiyatal, and Bhimtal."
+      },
+      {
+        "question": "Who conceived BIAS?",
+        "answer": "BIAS was conceived due to the vision of Shri G. P. Birla."
+      },
+      {
+        "question": "When was BIAS established?",
+        "answer": "BIAS was started in 1989 with the Master in Computer Application (MCA) program."
+      },
+      {
+        "question": "Which organization supported BIAS initially?",
+        "answer": "BIAS was supported by B.I.T. MESRA, Ranchi, and B.M. Birla Science and Technology Center, Jaipur."
+      },
+      {
+        "question": "What is the current intake for MCA, B.Tech. (CSE), and B.Tech. (ECE)?",
+        "answer": "The intake is 18 for MCA, 180 for B.Tech. (CSE), and 30 for B.Tech. (ECE)."
+      },
+      {
+        "question": "Which new program is BIAS planning to start from 2024-25?",
+        "answer": "BIAS is planning to start the BCA program from the session 2024-25."
+      },
+      {
+        "question": "Is BIAS AICTE approved?",
+        "answer": "Yes, BIAS is AICTE approved."
+      },
+      {
+        "question": "Which university is BIAS affiliated with?",
+        "answer": "BIAS is affiliated with Veer Madho Singh Bhandari Uttarakhand Technical University, Dehradun."
+      },
+      {
+        "question": "What are the focus areas of BIAS?",
+        "answer": "BIAS emphasizes innovation, research, and entrepreneurship."
+      },
+      {
+        "question": "What extracurricular activities does BIAS offer?",
+        "answer": "BIAS offers various societies and clubs such as Literary, Fine Arts, Cultural, Sports, Eco-club, and Techno-forum."
+      },
+      {
+        "question": "What is the name of the annual multi-activity competitive event at BIAS?",
+        "answer": "The event is called SPECTRUM."
+      },
+      {
+        "question": "Who governs BIAS?",
+        "answer": "BIAS is governed by its own Board of Governors (BoG), consisting of renowned academicians, Vice-Chancellors, and Professors from IITs."
+      },
+      {
+        "question": "When were the B.Tech. programs in ECE and CSE introduced?",
+        "answer": "The B.Tech. in Electronics and Communication Engineering (ECE) was introduced in 2003-2004, and Computer Science and Engineering (CSE) in 2006-2007."
+      },
+      {
+        "question": "Which airport is nearest to BIAS?",
+        "answer": "The nearest airport is Pant Nagar, which is 55 km away."
       },
       {
         "question": "How can students apply for scholarships at BIAS?",
@@ -129,7 +201,197 @@
         "question": "Faculties at BIAS",
         "context": "The faculties at BIAS: Dr. Sandesh Tripathi, Mr. Nitin Chhimwal, Mr. Hem Chandra Pandey",
         "answer": "Dr. Sandesh Tripathi, Mr. Nitin Chhimwal, Mr. Hem Chandra Pandey"
+      },
+      {
+        "question": "What hostel facilities does BIAS provide?",
+        "answer": "BIAS offers separate hostels for boys and girls with separate mess facilities."
+      },
+      {
+        "question": "What healthcare facilities are available on campus?",
+        "answer": "BIAS has an in-campus dispensary and an ambulance for health emergencies."
+      },
+      {
+        "question": "What internet facilities are available at BIAS?",
+        "answer": "BIAS provides a 300 Mbps leased line for academic and administrative purposes, and separate broadband Wi-Fi routers in hostels."
+      },
+      {
+        "question": "What is the institute fee for B.Tech at the time of new admission?",
+        "answer": "The institute fee for B.Tech at the time of new admission is ₹54,000."
+      },
+      {
+        "question": "What is the hostel room rent per semester?",
+        "answer": "The hostel room rent is ₹8,000 per semester."
+      },
+      {
+        "question": "How much is the Wi-Fi charge per semester?",
+        "answer": "The Wi-Fi charge is ₹800 per semester."
+      },
+      {
+        "question": "What are the charges for Communication Skills & PDP per semester?",
+        "answer": "The charges for Communication Skills & PDP are ₹3,000 per semester."
+      },
+      {
+        "question": "How much is the Alumni fee and when is it payable?",
+        "answer": "The Alumni fee is ₹1,000 and is payable once at the time of admission only."
+      },
+      {
+        "question": "What is the Student Activity Fee per semester?",
+        "answer": "The Student Activity Fee is ₹1,000 per semester."
+      },
+      {
+        "question": "How much are the electricity and water charges per semester?",
+        "answer": "The electricity and water charges are ₹1,500 per semester."
+      },
+      {
+        "question": "How much is the admission fee and when is it payable?",
+        "answer": "The admission fee is ₹5,000 and is payable once at the time of admission only."
+      },
+      {
+        "question": "What is the Institute Sports Charge per semester?",
+        "answer": "The Institute Sports Charge is ₹800 per semester."
+      },
+      {
+        "question": "How much is the Student Medical Insurance, and when is it payable?",
+        "answer": "The Student Medical Insurance is ₹725 and is payable annually at the time of admission."
+      },
+      {
+        "question": "What is the University Enrollment Fee and when is it payable?",
+        "answer": "The University Enrollment Fee is ₹1,500 and is payable once at the time of admission only."
+      },
+      {
+        "question": "How much is the University Registration Fee and when is it payable?",
+        "answer": "The University Registration Fee is ₹2,500 and is payable once at the time of admission only."
+      },
+      {
+        "question": "What is the University Examination Fee per semester?",
+        "answer": "The University Examination Fee is ₹2,500 per semester."
+      },
+      {
+        "question": "What is the University Sports Fee per year?",
+        "answer": "The University Sports Fee is ₹400 per year."
+      },
+      {
+        "question": "How much is the University Student Welfare Fee and when is it payable?",
+        "answer": "The University Student Welfare Fee is ₹300 and is payable annually in an odd semester."
+      },
+      {
+        "question": "What is the University Development Fee per year?",
+        "answer": "The University Development Fee is ₹400 per year."
+      },
+      {
+        "question": "How much is the University Degree Fee and when is it payable?",
+        "answer": "The University Degree Fee is ₹500 and is payable once at the time of admission only."
+      },
+      {
+        "question": "What is the Institute & Library Security Fee and when is it refundable?",
+        "answer": "The Institute & Library Security Fee is ₹1,000 and is refundable after leaving the Institute."
+      },
+      {
+        "question": "How much is the Hostel Mess Advance per semester?",
+        "answer": "The Hostel Mess Advance is ₹18,000 per semester, adjustable against actual mess bills."
+      },
+      {
+        "question": "What is the total fee payable at the time of admission?",
+        "answer": "The total fee payable at the time of admission is ₹1,09,725."
+      },
+      {
+        "question": "What are the semester-wise charges including hostel and mess?",
+        "answer": "Semester-wise charges including hostel and mess are ₹85,800 for even semesters and ₹91,425 for odd semesters."
+      },
+      {
+        "question": "What is the approximate total amount payable in a year including hostel and mess?",
+        "answer": "The approximate total amount payable in a year including hostel and mess is ₹2,27,200."
+      },
+      {
+        "question": "What is the dress requirement for students at the Institute?",
+        "answer": "Every student is required to have a uniform, comprising of grey trousers, white shirt, navy blue blazer with the institute monogram and tie (provided by the Institute)."
+      },
+      {
+        "question": "What items are students expected to bring while joining the hostel?",
+        "answer": "Students are expected to bring a mattress, bed sheet, blanket, and woolen clothes."
+      },
+      {
+        "question": "Who is a 1992 graduate of BIAS and currently serves as Assistant Vice President at Aricent Technologies?",
+        "answer": "Mr. Anil Diddi is a 1992 graduate of BIAS and currently serves as Assistant Vice President at Aricent Technologies."
+      },
+      {
+        "question": "Which 1994 graduate of BIAS is the Senior Vice President at Citi Bank?",
+        "answer": "Mr. Kamal Bhatt, a 1994 graduate of BIAS, is the Senior Vice President at Citi Bank."
+      },
+      {
+        "question": "Who is the 2007 BIAS graduate that joined the Indian Administrative Services (I.A.S)?",
+        "answer": "Ms. Pushpanjali Rawat, a 2007 graduate of BIAS, joined the Indian Administrative Services (I.A.S)."
+      },
+      {
+        "question": "Which 2010 BIAS graduate is currently an Assistant Professor at IIT Jodhpur?",
+        "answer": "Dr. Harshit Agarwal, a 2010 graduate of BIAS, is currently an Assistant Professor at IIT Jodhpur."
+      },
+      {
+        "question": "Who is the 2014 graduate from BIAS working at Microsoft?",
+        "answer": "Mr. Deshant Kumar, a 2014 graduate from BIAS, is working at Microsoft."
+      },
+      {
+        "question": "Which 2016 BIAS graduate is employed at Nutanix?",
+        "answer": "Mr. Dharmendra Singh, a 2016 BIAS graduate, is employed at Nutanix."
+      },
+      {
+        "question": "Who is the 2016 graduate from BIAS working at Foxconn, Semiconductors Taiwan?",
+        "answer": "Dr. Iram Siddiqui, a 2016 graduate from BIAS, is working at Foxconn, Semiconductors Taiwan."
+      },
+      {
+        "question": "Which 2016 BIAS graduate is currently employed at Microsoft?",
+        "answer": "Mr. Rahul Chauhan, a 2016 BIAS graduate, is currently employed at Microsoft."
+      },
+      {
+        "question": "Who is the 2017 BIAS graduate working at Adobe?",
+        "answer": "Ms. Himani Chauhan, a 2017 BIAS graduate, is working at Adobe."
+      },
+      {
+        "question": "Which 2017 graduate from BIAS is employed at Samsung Research Institute?",
+        "answer": "Mr. Saurabh Joshi, a 2017 graduate from BIAS, is employed at Samsung Research Institute."
+      },
+      {
+        "question": "Who is the 2018 BIAS graduate working at Adobe?",
+        "answer": "Mr. Gaurav Rajput, a 2018 BIAS graduate, is working at Adobe."
+      },
+      {
+        "question": "Who are some notable alumni of Birla Institute of Applied Sciences?",
+        "answer": "Some notable alumni of BIAS include Mr. Anil Diddi (Assistant Vice President at Aricent Technologies), Mr. Kamal Bhatt (Senior Vice President at Citi Bank), and Ms. Pushpanjali Rawat (Indian Administrative Services Officer)."
+      },
+      {
+        "question": "Which BIAS graduate joined the Indian Administrative Services (I.A.S)?",
+        "answer": "Ms. Pushpanjali Rawat, a 2007 graduate, joined the Indian Administrative Services (I.A.S)."
+      },
+      {
+        "question": "Are there any BIAS alumni working at Microsoft?",
+        "answer": "Yes, Mr. Deshant Kumar (2014 graduate) and Mr. Rahul Chauhan (2016 graduate) are working at Microsoft."
+      },
+      {
+        "question": "Which alumni from BIAS are working in global tech companies?",
+        "answer": "Some BIAS alumni in global tech companies include Mr. Deshant Kumar (Microsoft), Mr. Rahul Chauhan (Microsoft), Ms. Himani Chauhan (Adobe), Mr. Gaurav Rajput (Adobe), and Mr. Saurabh Joshi (Samsung Research Institute)."
+      },
+      {
+        "question": "Has any BIAS graduate become a professor at a reputed institute?",
+        "answer": "Yes, Dr. Harshit Agarwal, a 2010 graduate, is currently an Assistant Professor at IIT Jodhpur."
+      },
+      {
+        "question": "Are there any BIAS alumni working in the semiconductor industry?",
+        "answer": "Yes, Dr. Iram Siddiqui (2016 graduate) is working at Foxconn, Semiconductors Taiwan."
+      },
+      {
+        "question": "Which BIAS graduate is employed at Citi Bank?",
+        "answer": "Mr. Kamal Bhatt, a 1994 graduate, is the Senior Vice President at Citi Bank."
+      },
+      {
+        "question": "How can I connect with BIAS alumni?",
+        "answer": "You can connect with BIAS alumni through the institute’s official alumni network or LinkedIn groups dedicated to BIAS graduates."
+      },
+      {
+        "question": "Does BIAS have alumni in leadership positions?",
+        "answer": "Yes, several alumni hold leadership positions, such as Mr. Anil Diddi (Assistant Vice President at Aricent Technologies) and Mr. Kamal Bhatt (Senior Vice President at Citi Bank)."
       }
+
+      
     ]
   }
   
